@@ -1,4 +1,0 @@
-Nội dung bản cập nhật:
-   - Thêm chức năng nối video
-   - Năng cấp 1 số chức năng
-   - Tối ưu tốc dộ

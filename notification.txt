@@ -1,5 +1,0 @@
-Các chức năng được update:
-   - thêm giao diện người dùng
-   - thêm chức năng ghép nối video
-   - tối ưu hóa tốc độ ứng dụng
-   - thay đổi nhỏ về giao diện
